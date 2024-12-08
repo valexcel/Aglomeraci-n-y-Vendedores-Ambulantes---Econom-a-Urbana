@@ -23,10 +23,14 @@ A continuación se detallan los pasos necesarios para ejecutar el código en est
    Se distribuye la probabilidad de asignación según UPZ en la localidad de Kennedy.
 
 
+## Resultados y análisis ✅
+El documento titulado **resultados** contiene el documento final del proyecto. Incluye la revisión de literatura, hipótesis, modelo, resultados y bibliografía. 
+
 
    
 
 ***Notas al pie***
-(1) DANE (2024). Encuesta de Micronegocios (EMICRON) - Vendedores ambulantes 2019- 2023.
-(2) Pinto (2024). Colombia está en octavo puesto de América en el índice de percepción de seguridad. La Republica.co.
+
+(1) DANE (2024). Encuesta de Micronegocios (EMICRON) - Vendedores ambulantes 2019-2023.  
+(2) Pinto (2024). *Colombia está en octavo puesto de América en el índice de percepción de seguridad*. La Republica.co.
    
