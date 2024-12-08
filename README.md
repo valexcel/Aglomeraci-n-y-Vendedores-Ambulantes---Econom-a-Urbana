@@ -19,15 +19,21 @@ A continuación se detallan los pasos necesarios para ejecutar el código en est
 1. **Definir el modelo**: 
    Se enuncia el modelo utilizando los datos de **ingresos promedio de vendedores ambulantes** (1), **percepción de seguridad** (2) y **número de conexiones laborales** como variables principales.
 
-2. **Determinamos la elegibilidad al tratamiento**:
-   Se distribuye la probabilidad de asignación según UPZ en la localidad de Kennedy.
+2. **Determinamos la elegibilidad al tratamiento y los resultados potenciales**:
+   Se distribuye la probabilidad de asignación según UPZ en la localidad de Kennedy. Los resultados potenciales se establecen de acuerdo a la la revisión de literatura.
+
+3. **Simulación de resultados**:
+Modelo DiD con y sin variable instrumental estimado en dos etapas.
+
+4. **Diagnóstico del modelo**:
+Se evalua el poder estadístico, sesgo y error cuadrático medio para cada uno de los modelos estimados (ingresos, percepción de seguridad y conexiones laborales). 
+
 
 
 ## Resultados y análisis ✅
 El documento titulado **resultados** contiene el documento final del proyecto. Incluye la revisión de literatura, hipótesis, modelo, resultados y bibliografía. 
 
 
-   
 
 ***Notas al pie***
 
