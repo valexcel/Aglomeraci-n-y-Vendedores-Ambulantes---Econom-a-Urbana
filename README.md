@@ -28,6 +28,10 @@ Modelo DiD con y sin variable instrumental estimado en dos etapas.
 4. **Diagnóstico del modelo**:
 Se evalua el poder estadístico, sesgo y error cuadrático medio para cada uno de los modelos estimados (ingresos, percepción de seguridad y conexiones laborales). 
 
+Los tres scritps de R siguen el mismo procedimiento con pequenas variaciones realizadas con el fin de comprobar la robustez de la estimación. En particular: 
+***Design.R:*** ejecuta la simulacion del modelo original.
+***RobustnessChecks_1.R:*** incorpora una variación en el porcentaje de compliance.
+***RobustnessChecks_2.R:*** incorpora una variación en los resultados potenciales. 
 
 
 ## Resultados y análisis ✅
